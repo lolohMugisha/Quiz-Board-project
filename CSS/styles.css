@@ -1,10 +1,37 @@
-label{
-display: block;
-}
 #button {
   background-color: blue;
   padding:10px,10px,10px,10px;  
 }
 h1{
-  align:center;
-}
+  font-family: sans-serif;
+  color: black;
+  font-size: 50px;
+  text-decoration: overline;
+  }
+
+
+
+
+
+  #button:hover{
+    background: white;
+    border: 1px solid green;
+    color: black
+    color: black;
+    cursor: pointer;
+  }
+  #after_submit{
+    visibility: hidden;
+    background: #ff5459;
+    padding: 10px 20px 10px 20px;
+    width: 400px;
+    border-radius: 20px;
+    font-size: 30px;
+    text-align: center;
+  }
+  #lol {
+    display: inline-block;
+  }
+  #number_count{
+    display: none;
+  }
