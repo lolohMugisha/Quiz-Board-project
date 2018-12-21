@@ -1,3 +1,7 @@
 label{
 display: block;
 }
+button {
+  background-color: blue;
+  padding:10px,10px,10px,10px;
+}
