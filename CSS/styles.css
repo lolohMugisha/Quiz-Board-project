@@ -6,6 +6,5 @@ display: block;
   padding:10px,10px,10px,10px;  
 }
 h1{
-  align-self:center;
-  padding-block-end: 10%
+  align:center;
 }
