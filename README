@@ -1,0 +1,28 @@
+Quiz-Board-project
+### This is my landing page "Quiz-Board-project" showing some of my works, Date 21th,Dec 2018
+#### By **Charlotte Laurence NYIRAMUGISHA**
+## Description
+Quiz-Board-project is some of my work and It is standalone webpage with information about javaScript QUESTIONS and it hosted through Github pages
+## Setup/Installation Requirements
+#To access triangle tracker all you need to do is:
+* Connect to the internet
+* Open your browser
+* In your browser adress bar type the following
+* https://github.com/lolohMugisha/Quiz-Board-project.git
+* And there you have it
+## Technologies Used
+* HTML for structuring
+* CSS for styling
+*javaScript
+*Jquery
+
+
+### BDD
+1. The behaviour of the correct syntax to print a page using JavaScript? is window.print(); browser.print(); navigator.print(); document.print(); 
+ Therefore, output example is: The value[1,2,3,4] is (1) window.prit ()
+2.  The behaviour of Which built-in method calls a function for each element in the array? is while();loop(); ;None of the above; 
+ Therefore, output example is: The value[1,2,3,4] is (1) forEach()
+
+### License
+https://github.com/lolohMugisha/Quiz-Board-project.git
+Copyright (c) 20178   **Charlotte Laurence NYIRAMUGISHA**
