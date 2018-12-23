@@ -19,10 +19,16 @@ Quiz-Board-project is some of my work and It is standalone webpage with informat
 
 
 ### BDD
-1. The behaviour of the correct syntax to print a page using JavaScript? is window.print(); browser.print(); navigator.print(); document.print(); 
- Therefore, output example is: The value[1,2,3,4] is (1) window.prit ()
-2.  The behaviour of Which built-in method calls a function for each element in the array? is while();loop(); ;None of the above; 
- Therefore, output example is: The value[1,2,3,4] is (1) forEach()
+It can determine if the provided answer is wrong
+
+Example Input : no answered questions Example Output: 0 (No mark not awarded)
+
+Example Input : right answer Example Output: 2 (2 Marks awarded) It can determine if the provided answer is correct
+
+Example Input: Wrong answer Example Output: 0 (Mark not awarded)
+
+### Known Bugs
+None at the moment. But if found kindly reach out.
 
 ### License
 Copyright (c) 20178   **Charlotte Laurence NYIRAMUGISHA**
